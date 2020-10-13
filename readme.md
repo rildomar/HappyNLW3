@@ -15,11 +15,11 @@
 </p>
 <strong>
 <br>
-<p align="center">
+<!-- p align="center">
     <a href="README.md">Inglês</a>
     ·
     <a href="README-pt.md">Português</a>
-</p>
+</p-->
 
 <p align="center">
   <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
