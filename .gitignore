@@ -2,8 +2,10 @@
 
 # dependencies
 /node_modules
+node_modules/
 /.pnp
 .pnp.js
+jspm_packages/
 
 # testing
 /coverage
@@ -13,6 +15,7 @@
 
 # misc
 .DS_Store
+.env
 .env.local
 .env.development.local
 .env.test.local
@@ -21,3 +24,19 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+package-lock.json
+# Database
+*.sqlite
+
+#intellij
+.idea/
+
+#Sonar
+.scannerwork
+.sonarlint
+
+#Vscode
+.vscode
+#Exclude all pictures
+pictures/
